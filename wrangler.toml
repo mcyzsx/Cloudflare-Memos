@@ -14,7 +14,7 @@ ENVIRONMENT = "production"
 [[d1_databases]]
 binding = "DB"
 database_name = "memos_db"
-database_id = "437a3815-ae40-4337-83f7-fde6f2487718"
+database_id = "b1e2ceb8-4edd-41c8-ba38-824a3c24450e"
 
 [[r2_buckets]]
 binding = "BUCKET"
